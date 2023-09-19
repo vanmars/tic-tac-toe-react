@@ -1,0 +1,13 @@
+.Square {
+  background-color: turquoise;
+  border: 5px solid #999;
+  float: left;
+  font-size: 150px;
+  font-weight: bold;
+  height: 200px;
+  width: 200px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+}
